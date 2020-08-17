@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataModel/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.12.4"
+        },
+        "runtime": {
+          "DataModel.dll": {}
+        }
+      },
+      "Google.Protobuf/3.12.4": {
+        "dependencies": {
+          "System.Memory": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.12.4.0",
+            "fileVersion": "3.12.4.0"
+          }
+        }
+      },
+      "System.Memory/4.5.2": {}
+    }
+  },
+  "libraries": {
+    "DataModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.12.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vl0FuEKLBQp6WOFacaRXnwSlnBKwYtoWtSK0tErYBcLvipbx5Jdq3V17xLHsUUluF/ZOSyjZ2L2skCVxwGNhZw==",
+      "path": "google.protobuf/3.12.4",
+      "hashPath": "google.protobuf.3.12.4.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    }
+  }
+}

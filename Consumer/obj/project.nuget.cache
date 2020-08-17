@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmUGrjnyT02peFwAbnPKoOaOXPYBwNR8yL/Fm87BqwKuZn/kff5vlRRxOdBFgEwmCRs/Ej0ElmbkflZiCJhwgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhisagg\\Documents\\Encoding\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhisagg\\.nuget\\packages\\google.protobuf\\3.12.4\\google.protobuf.3.12.4.nupkg.sha512",
+    "C:\\Users\\abhisagg\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\abhisagg\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\bin\Debug\netcoreapp3.1\Producer.exe
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\bin\Debug\netcoreapp3.1\Producer.deps.json
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.json
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.dev.json
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\bin\Debug\netcoreapp3.1\Producer.dll
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\bin\Debug\netcoreapp3.1\Producer.pdb
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.csprojAssemblyReference.cache
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.AssemblyInfoInputs.cache
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.AssemblyInfo.cs
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.csproj.CoreCompileInputs.cache
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.csproj.CopyComplete
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.dll
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.pdb
+C:\Users\abhisagg\OneDrive\Encoding\Encoding\obj\Debug\netcoreapp3.1\Producer.genruntimeconfig.cache

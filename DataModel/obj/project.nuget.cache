@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/ngrcMqFHeu7uH1OHv0WMb/1oiWGfjsCtUqEAXRQMO5UunBONfPxZZDvVTBzb73oy2gjDjBSZfs+8v+BD3jdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abhisagg\\Documents\\Encoding\\DataModel\\DataModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abhisagg\\.nuget\\packages\\google.protobuf\\3.12.4\\google.protobuf.3.12.4.nupkg.sha512",
+    "C:\\Users\\abhisagg\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

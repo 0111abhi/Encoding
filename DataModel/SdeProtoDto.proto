@@ -1,0 +1,8 @@
+﻿syntax = "proto3";
+package Service1;
+
+message SdeProtoDto{
+	int32 Id = 1;
+	string Name = 2;
+	repeated string Skills = 3;
+}
